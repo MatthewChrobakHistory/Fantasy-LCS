@@ -1,0 +1,7 @@
+C:\Users\Matthew\Desktop\FantasyLCS\FantasyLCS\bin\Debug\FantasyLCS.exe.config
+C:\Users\Matthew\Desktop\FantasyLCS\FantasyLCS\obj\Debug\FantasyLCS.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Desktop\FantasyLCS\FantasyLCS\obj\Debug\FantasyLCS.Form1.resources
+C:\Users\Matthew\Desktop\FantasyLCS\FantasyLCS\obj\Debug\FantasyLCS.Forms.frmRoster.resources
+C:\Users\Matthew\Desktop\FantasyLCS\FantasyLCS\obj\Debug\FantasyLCS.Properties.Resources.resources
+C:\Users\Matthew\Desktop\FantasyLCS\FantasyLCS\obj\Debug\FantasyLCS.csproj.GenerateResource.Cache
+C:\Users\Matthew\Copy\Projects\FantasyLCS\FantasyLCS\bin\Debug\FantasyLCS.exe.config
